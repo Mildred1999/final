@@ -53,6 +53,6 @@ A terminal-based Checkers game implemented in C, featuring:
 ## Technical Highlights
   - Dynamic Memory Allocation: Adjusts to any board size (default 8x8).
   - Efficient Rules Engine: Validates moves and captures.
-  - ANSI Colors: Enhances readability in supported terminals.
+  - ANSI Colors: Enhances readability in terminal.
   - File I/O: Saves and loads game state to allow game resumption.
-  - Structured Design: Uses C structures to represent pieces, and board state clearly and modularly.
+  - Structured Design: Uses C structures to represent pieces and board state clearly and modularly.
